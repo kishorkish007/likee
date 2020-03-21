@@ -12,7 +12,7 @@ ab91ffc 17 days ago
  
 <?php
 set_time_limit(0);
-include 'Instagram.class.php';
+include 'class_ig.php';
 clear();
 echo "
  *  OPTIMUS FEED LIKER [v3]
